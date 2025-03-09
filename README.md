@@ -7,4 +7,4 @@ Features
 ✅ Smart bins using Arduino weight sensors to measure deposited waste.
 ✅ Integration with Razorpay API for smooth reward redemption.
 ✅ Google Maps API integration for finding nearby recycling centers.
-<br><i>Author -Pratishtha Sharma</i>
+<br><i>Author -<br>Pratishtha Sharma</i>
